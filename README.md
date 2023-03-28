@@ -28,3 +28,14 @@ Impacket es utilizado por muchos hackers y probadores de penetración para elabo
 El objetivo de Impacket es facilitar la programación de redes a los programadores de Python y proporcionar un marco para implementar protocolos personalizados. Por ejemplo, Impacket puede utilizarse para implementar versiones personalizadas de la pila TCP/IP para una plataforma determinada. Para instalar IMpacket, secureauth.com/labs/open-source-tools/impacket/ ejecuta:
 
 pip install impacket
+
+# 4. PWNTOOLS
+pwntools es un marco de trabajo CTF (Capture-the-Flag) y una librería de desarrollo de exploits escrita en Python. Está diseñada para facilitar la creación rápida de prototipos y el desarrollo.
+
+pwntools proporciona una serie de herramientas útiles para las pruebas de penetración, la automatización de la ingeniería inversa, la creación de exploits, programas de fuzzing, y más.
+
+También permite a los usuarios crear rápidamente exploits para desafíos en competiciones CTF. Esta librería funciona mejor con las versiones de 64 bits de Ubuntu LTS y tiene muchos módulos que permiten un rápido desarrollo de exploits y flexibilidad a la hora de escribir código de rogue.
+Encuentra la documentación de pwntools: https://docs.pwntools.com/en/latest/
+
+
+
