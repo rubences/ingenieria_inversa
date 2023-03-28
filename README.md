@@ -1,7 +1,12 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+1. SCAPY
+Scapy es una completa herramienta interactiva de manipulación de paquetes escrita en Python por Philippe Biondi. Realiza principalmente dos funciones: enviar paquetes y recibir respuestas.
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
+Puede falsificar o decodificar paquetes de una variedad de protocolos, enviarlos, recibir respuestas, emparejar solicitudes con respuestas y devolver una lista de parejas de paquetes y una lista de paquetes no emparejados. Puede manejar fácilmente las tareas más comunes como el escaneo de la red, el descubrimiento de la red, el rastreo, los ataques, el sondeo, etc.
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
+El objetivo de Scapy es hacer que la manipulación de paquetes sea fácil proporcionando un conjunto de funcionalidades que salvan la distancia entre la programación de red de bajo nivel y los protocolos de alto nivel. Es una gran herramienta para iniciarse en la manipulación de paquetes. No es difícil de usar, pero tiene una empinada curva de aprendizaje.
 
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+Instalación y ayuda: https://scapy.readthedocs.io/en/latest/
+
+pip install scapy
+
+
