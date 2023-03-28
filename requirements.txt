@@ -12,3 +12,6 @@ pwntools==4.5.1
 cryptography==3.4.8
 python-nmap==0.7.1
 Faker==8.16.0
+pycrypto==2.6.1
+twisted==21.7.0
+pycryptodome==3.11.0

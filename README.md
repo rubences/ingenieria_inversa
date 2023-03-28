@@ -81,3 +81,14 @@ pip install pycrypto
 
 Documentación de PyCrypto: https://www.dlitz.net/software/pycrypto/
 
+# 9. TWISTED
+Twisted es un motor de red basado en eventos escrito en Python. Proporciona una abstracción del protocolo TCP que facilita la escritura de clientes y servidores de red. Destaca especialmente por su amplio soporte de SSL, IPv6 y un gran número de protocolos, entre los que se encuentran los siguientes: HTTP, IRC, NNTP, SMTP, POP3, IMAP, SSHv2 y DNS.
+
+Twisted admite el paradigma de red sincrónica y asincrónica. Para instalar Twisted ejecuta:
+
+pip install Twisted
+
+Para saber más sobre esta librería, consulta el sitio oficial. https://twisted.org/
+
+
+
