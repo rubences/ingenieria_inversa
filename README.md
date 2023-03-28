@@ -60,3 +60,24 @@ Para instalar python-nmap, ejecuta:
 pip install python-nmap
 
 Para más información acerca de esta librería, consulta la documentación. https://xael.org/pages/python-nmap-en.html
+
+# 7. FAKER
+Faker es un paquete de Python que genera datos falsos. Puede generar cualquier cosa, desde nombres, números de teléfono y direcciones hasta textos falsos, documentos XML, etc. Faker es muy fácil de usar. Sólo tienes que llamar a faker.name() y obtendrás un nombre aleatorio, faker.address() y obtendrás una dirección falsa.
+
+Viene con muchas otras funciones para generar datos falsos. Hay varias razones por las que puedes querer usar Faker. Tal vez necesites rellenar una base de datos con información falsa para un prototipo 
+
+Puedes instalar la librería faker ejecutando este comando:
+
+pip install Faker
+Puedes consultar la documentación para obtener más directrices. https://faker.readthedocs.io/en/master/
+
+# 8. PYCRYPTO
+
+PyCrypto es una colección de algoritmos y protocolos criptográficos. Es una librería de Python que proporciona una serie de herramientas para la criptografía y la seguridad. PyCrypto es una librería de código abierto que proporciona una serie de herramientas para la criptografía y la seguridad.
+
+PyCrypto es una librería de código abierto que proporciona una serie de herramientas para la criptografía y la seguridad. La librería proporciona una serie de algoritmos criptográficos y protocolos, incluyendo cifrados, firmas digitales, cifrados de flujo, cifrados de bloque, cifrados de clave pública, y más.
+
+pip install pycrypto
+
+Documentación de PyCrypto: https://www.dlitz.net/software/pycrypto/
+
