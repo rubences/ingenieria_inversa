@@ -37,5 +37,14 @@ pwntools proporciona una serie de herramientas útiles para las pruebas de penet
 También permite a los usuarios crear rápidamente exploits para desafíos en competiciones CTF. Esta librería funciona mejor con las versiones de 64 bits de Ubuntu LTS y tiene muchos módulos que permiten un rápido desarrollo de exploits y flexibilidad a la hora de escribir código de rogue.
 Encuentra la documentación de pwntools: https://docs.pwntools.com/en/latest/
 
+pip install pwntools
 
+# 5. CRYPTOGRAPHY
+Cryptography es un paquete que proporciona recetas criptográficas a los desarrolladores de Python. Esto incluye encriptación, hashing, generación de números aleatorios, firmas, así como cifrados por bloque y de flujo.
+
+Proporciona una API de alto nivel para algoritmos criptográficos fuertes como las firmas digitales y bloques de construcción criptográficos de bajo nivel diseñados con el rendimiento en mente. El hacking ético hace uso de esta funcionalidad para cifrar y descifrar información sensible compartida en Internet.
+
+La guía de desarrollo será esta https://cryptography.io/en/latest/
+
+pip install cryptography
 
