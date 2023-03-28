@@ -48,3 +48,15 @@ La guía de desarrollo será esta https://cryptography.io/en/latest/
 
 pip install cryptography
 
+# 6. PYTHON-NMAP
+Python-nmap es una librería de Python que ayuda a utilizar el escáner de puertos Nmap. Nmap es una herramienta de administración de redes y auditoría de seguridad. Normalmente se utiliza para descubrir hosts y servicios disponibles en una red, aunque también puede utilizarse para examinar un único host.
+
+La librería python-nmap sirve como una wrapper de Python para la herramienta Nmap permitiendo acceder, usar y manipular fácilmente las características y funcionalidades de Nmap. La librería no sustituye a la herramienta Nmap, sino que sólo proporciona una interfaz para interactuar con Nmap.
+
+Ofrece un rico conjunto de características para el escaneo de puertos, el descubrimiento de hosts y TCP/IP fingerprinting. Esta librería es una herramienta perfecta para hackers y administradores de sistemas que quieran automatizar las tareas de escaneo de la red y los informes.
+
+Para instalar python-nmap, ejecuta:
+
+pip install python-nmap
+
+Para más información acerca de esta librería, consulta la documentación. https://xael.org/pages/python-nmap-en.html
