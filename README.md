@@ -90,5 +90,81 @@ pip install Twisted
 
 Para saber más sobre esta librería, consulta el sitio oficial. https://twisted.org/
 
+# 10. PYCRIPPTODOME
+
+PyCryptodome es una colección de algoritmos y protocolos criptográficos. Es una librería de Python que proporciona una serie de herramientas para la criptografía y la seguridad. PyCryptodome es una librería de código abierto que proporciona una serie de herramientas para la criptografía y la seguridad.
+
+instala la librería con el siguiente comando:
+
+pip install pycryptodome
+
+documentación de PyCryptodome: https://www.pycryptodome.org/en/latest/
+
+# 11. PYLIBNET
+Pylibnet es un módulo de Python para la librería de inyección de paquetes libnet. Proporciona una API de Python para libnet, y proporciona funcionalidad para el envío de paquetes, sniffing de tramas, y la visualización de trazas de libpcap.
+
+Pylibnet es una librería de Python que proporciona una interfaz de Python para la librería de inyección de paquetes libnet. La librería proporciona una API de Python para libnet, y proporciona funcionalidad para el envío de paquetes, sniffing de tramas, y la visualización de trazas de libpcap.
+
+Para instalar pylibnet, ejecuta:
+
+pip install pylibnet
+
+Para más información acerca de esta librería, consulta la documentación. https://codedocs.xyz/libnet/libnet/
+
+# 12. LIBPCAP
+
+Libpcap es una biblioteca de código abierto para capturar y analizar tramas de red. Es una biblioteca de código abierto para capturar y analizar tramas de red. La librería proporciona una interfaz de programación de aplicaciones (API) para la captura de paquetes de red.
+
+La librería proporciona una interfaz de programación de aplicaciones (API) para la captura de paquetes de red. La librería proporciona una interfaz de programación de aplicaciones (API) para la captura de paquetes de red.
+
+Para instalar libpcap, ejecuta:
+
+pip install libpcap
+
+Para más información acerca de esta librería, consulta la documentación. https://www.tcpdump.org/manpages/pcap.3pcap.html
+
+
+# 13 RAWSOCKETPY
+Una librería Python de capa 2 que fomenta la comunicación con direcciones MAC. Uno puede crear una comunicación WiFi a medida usando rawsocketpy.
+
+Para instalar rawsocketpy, ejecuta:
+
+pip install rawsocketpy
+
+pAra más información acerca de esta librería, consulta la documentación. https://rawsocket-python.readthedocs.io/en/latest/
+
+# 14. PYWIFI
+
+Pywifi es una librería de Python para la gestión de redes inalámbricas. Proporciona una interfaz de Python para la gestión de redes inalámbricas. La librería proporciona una interfaz de Python para la gestión de redes inalámbricas.
+
+Para instalar pywifi, ejecuta:
+
+pip install pywifi
+
+Para más información acerca de esta librería, consulta la documentación. https://pywifi.readthedocs.io/en/latest/
+
+# 15. WEBEYE
+
+WebEye es una herramienta de escaneo de seguridad web. Es una herramienta de escaneo de seguridad web. La herramienta proporciona una interfaz de línea de comandos para la ejecución de escaneos de seguridad web.
+
+Para instalar webeye, ejecuta:
+
+pip install webeye
+
+Para más información acerca de esta librería, consulta la documentación. https://wiki.ivao.aero/en/home/devops/websites/webeye
+
+# 16. PYBOTNET
+
+Pybotnet es una herramienta de código abierto para la creación de botnets. Es una herramienta de código abierto para la creación de botnets. La herramienta proporciona una interfaz de línea de comandos para la creación de botnets.
+
+Para instalar pybotnet, ejecuta:
+
+pip install pybotnet
+
+Para más información acerca de esta librería, consulta la documentación. https://onionj.github.io/pybotnet/
+
+
+
+
 
 

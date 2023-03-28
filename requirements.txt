@@ -15,3 +15,9 @@ Faker==8.16.0
 pycrypto==2.6.1
 twisted==21.7.0
 pycryptodome==3.11.0
+libnet==1.1.6
+libpcap==1.9.1
+rawsocketpy== 0.1.0
+pywifi==0.6.0
+webeye==0.1.0
+pybotnet==0.1.0
